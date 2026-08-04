@@ -1,5 +1,5 @@
 # STUMBLE
-<strong>stumble is an app making the internet feel random again</strong>
+**stumble is an app making the internet feel random again**
 
 Search engines and AI assistants are great at giving answers, but they've removed one of my favorite parts of using the web: wandering. Last month, I realized I wasn't clicking through random pages anymore, interesting links, or finding obscure. My favorite part about being online was going down Internet rabbit holes, but we've lost it.
 
