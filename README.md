@@ -7,7 +7,7 @@ Search engines and AI assistants are great at giving answers, but they've remove
 
 Each round, you're shown an image from a random Wikipedia article and have to match it to the correct title from three choices. Save interesting discoveries and dive down rabbit holes whenever curiosity strikes.
 
-<h2>TECH STACK</h2>
+**tech stack**
 <li>Wikipedia API</li>
 <li>Swift</li>
 <li>SwiftUI</li>
